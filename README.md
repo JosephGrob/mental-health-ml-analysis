@@ -32,7 +32,8 @@ L'objectif est d'entraîner des modèles prédictifs capables d’estimer un **�
 - `ml_mental_health_project.ipynb`  
   > Notebook principal contenant tout le code, les visualisations et les résultats
 
-- Données (non incluses ici pour confidentialité ou poids)
+- `MENTAL_HEALTH_ML_1_DEF.csv`  
+  > Données utilisées dans le projet (fichier inclus)
 
 ---
 
